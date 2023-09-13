@@ -3,7 +3,7 @@ import Action from './components/Action'
 import Akadem from './components/Akadem'
 import Aynan from './components/Aynan'
 import Hero from './components/Hero'
-import Header from './components/header'
+import Header from './components/Header'
 
 function App() {
 

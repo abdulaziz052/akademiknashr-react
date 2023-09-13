@@ -7,93 +7,93 @@ import logo from './logo.svg'
 
 function Akadem() {
   return (
-    <div>  <section class="akadem">
-    <div class="container akadem__container">
-      <div class="akadem__info">
+    <div>  <section className="akadem">
+    <div className="container akadem__container">
+      <div className="akadem__info">
         <a href="#">
-          <img class="akadem__info__img" src={logo} />
+          <img className="akadem__info__img" src={logo} />
         </a>
-        <div class="akadem__info__img">
+        <div className="akadem__info__img">
           <a href="#">
-          <img class="img__o" width="24px" height="24px" src={telegram} />
+          <img className="img__o" width="24px" height="24px" src={telegram} />
           </a>
           <a href="#">
-            <img class="img__o" width="24" height="24" src={facebook} />
+            <img className="img__o" width="24" height="24" src={facebook} />
           </a>
           <a href="#">
-              <img class="img__o" width="24" height="24" src={instagram} />
+              <img className="img__o" width="24" height="24" src={instagram} />
           </a>
               </div>
             </div>
-            <hr class="akadem__line"/>
-              <div class="flex">
+            <hr className="akadem__line"/>
+              <div className="flex">
 
-                <div class="list__1">
-                  <ul class="akadem__list">
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                <div className="list__1">
+                  <ul className="akadem__list">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Bosh sahifa
                     </a></li>
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Kitoblar
                     </a></li>
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Aksiyalar
                     </a></li>
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Yangiliklar
                     </a></li>
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Kontaktlar
                     </a></li>
                   </ul>
                 </div>
-                <div class="list__2">
-                  <ul class="akadem__list">
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                <div className="list__2">
+                  <ul className="akadem__list">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       ilmiy nashrlar
                     </a></li>
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Ilmiy-ommabop nashrlar
                     </a></li>
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Ma’rifiy nashrlar
                     </a></li>
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Lug’atlar
                     </a></li>
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Adabiy-badiiy nashrlar
                     </a></li>
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Abituriyentlar uchun
                     </a></li>
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Bolalar uchun
                     </a></li>
                   </ul>
                 </div>
-                <div class="list__3">
-                  <ul class="akadem__list">
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                <div className="list__3">
+                  <ul className="akadem__list">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Ko’p so’raladigan savollar
                     </a></li>
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Yetkazib berish haqida
                     </a></li>
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       To’lov usullari haqida
                     </a></li>
                   </ul>
                 </div>
-                <div class="list__4">
-                  <ul class="akadem__list">
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                <div className="list__4">
+                  <ul className="akadem__list">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Bo’sh ish o’rinlari
                     </a></li>
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Biz bilan bog’lanish
                     </a></li>
-                    <li class="akadem__item"><a class="akadem__link" href="#">
+                    <li className="akadem__item"><a className="akadem__link" href="#">
                       Maxfiylik nizomi
                     </a></li>
                   </ul>
